@@ -1,27 +1,27 @@
 
 
 <!-- consolidated-projects:start -->
-## Projects
+## Exercises and standalone projects
 
-| Project | Folder |
+Original piscine exercises remain in this repository. Standalone projects live in their own repositories with their commit histories.
+
+| Project | Location |
 | --- | --- |
-| backtesting-sp500 | [Open project](./backtesting-sp500/) |
-| forest-prediction | [Open project](./forest-prediction/) |
-| numpy | [Open project](./numpy/) |
-| pandas | [Open project](./pandas/) |
-| visualizations | [Open project](./visualizations/) |
-| data-wrangling | [Open project](./data-wrangling/) |
-| time-series | [Open project](./time-series/) |
-| linear-regression | [Open project](./linear-regression/) |
-| classification | [Open project](./classification/) |
-| pipeline | [Open project](./pipeline/) |
-| training | [Open project](./training/) |
-| model-selection | [Open project](./model-selection/) |
-| neural-networks | [Open project](./neural-networks/) |
-| keras | [Open project](./keras/) |
-| keras-2 | [Open project](./keras-2/) |
-| nlp | [Open project](./nlp/) |
-| nlp-spacy | [Open project](./nlp-spacy/) |
-
-Imported projects retain their original Git history. Standalone repositories remain available.
+| backtesting-sp500 | [Standalone repository](https://github.com/elhaouchomar/backtesting-sp500) |
+| forest-prediction | [Standalone repository](https://github.com/elhaouchomar/forest-prediction) |
+| numpy | [Exercises](./numpy/) |
+| pandas | [Standalone repository](https://github.com/elhaouchomar/pandas) |
+| visualizations | [Standalone repository](https://github.com/elhaouchomar/visualizations) |
+| data-wrangling | [Standalone repository](https://github.com/elhaouchomar/data-wrangling) |
+| time-series | [Standalone repository](https://github.com/elhaouchomar/time-series) |
+| linear-regression | [Standalone repository](https://github.com/elhaouchomar/linear-regression) |
+| classification | [Standalone repository](https://github.com/elhaouchomar/classification) |
+| pipeline | [Standalone repository](https://github.com/elhaouchomar/pipeline) |
+| training | [Standalone repository](https://github.com/elhaouchomar/training) |
+| model-selection | [Standalone repository](https://github.com/elhaouchomar/model-selection) |
+| neural-networks | [Standalone repository](https://github.com/elhaouchomar/neural-networks) |
+| keras | [Standalone repository](https://github.com/elhaouchomar/keras) |
+| keras-2 | [Standalone repository](https://github.com/elhaouchomar/keras-2) |
+| nlp | [Standalone repository](https://github.com/elhaouchomar/nlp) |
+| nlp-spacy | [Standalone repository](https://github.com/elhaouchomar/nlp-spacy) |
 <!-- consolidated-projects:end -->

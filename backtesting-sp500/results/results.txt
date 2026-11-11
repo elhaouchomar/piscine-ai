@@ -1,7 +1,0 @@
-Strategy PnL: $67.73
-SP500 PnL: $14.79
-Trading months: 156
-Avg monthly PnL: $0.4342
-Avg positions: 20.0
-Strategy avg monthly return: 2.1708%
-SP500 avg monthly return: 0.4742%
