@@ -1,0 +1,104 @@
+[
+  {
+    "name": "backtesting-sp500",
+    "status": "imported",
+    "branch": "main",
+    "commit": "9e5d3cc48e76a155ff1bba3c7e8ae206a64c7f15"
+  },
+  {
+    "name": "forest-prediction",
+    "status": "imported",
+    "branch": "main",
+    "commit": "6c21f1efc893854a85606172f83c381acbc3d577"
+  },
+  {
+    "name": "numpy",
+    "status": "already inside",
+    "branch": "main",
+    "commit": "c28dfcf0c1bf098ac2ab27ce518cc347e62417c8"
+  },
+  {
+    "name": "pandas",
+    "status": "imported",
+    "branch": "main",
+    "commit": "6eb5a71fa15f729a31b806582950d4eee27c7484"
+  },
+  {
+    "name": "visualizations",
+    "status": "imported",
+    "branch": "main",
+    "commit": "2e3ab78a3cd71fb1ff5dd1788dfff3566d0ee8c0"
+  },
+  {
+    "name": "data-wrangling",
+    "status": "imported",
+    "branch": "main",
+    "commit": "b5df93ca9fe6ef4cfcf4c0d3049eb844c08c0d7e"
+  },
+  {
+    "name": "time-series",
+    "status": "imported",
+    "branch": "main",
+    "commit": "aae853da65f6e53a699ab7906a2210f71f2271e3"
+  },
+  {
+    "name": "linear-regression",
+    "status": "imported",
+    "branch": "main",
+    "commit": "852841eb1bbc75d526411980dfaf0e0e00b6c5e1"
+  },
+  {
+    "name": "classification",
+    "status": "imported",
+    "branch": "main",
+    "commit": "967793328841a41de002fc2314ca352579aa1b38"
+  },
+  {
+    "name": "pipeline",
+    "status": "imported",
+    "branch": "main",
+    "commit": "585b136417643269a1b36cd291fd42722fbd6935"
+  },
+  {
+    "name": "training",
+    "status": "imported",
+    "branch": "main",
+    "commit": "e6afe1778292c05adb1950daa3790c00e66068a1"
+  },
+  {
+    "name": "model-selection",
+    "status": "imported",
+    "branch": "main",
+    "commit": "7cf550c106fd1f117c490c86c880679a40e01048"
+  },
+  {
+    "name": "neural-networks",
+    "status": "imported",
+    "branch": "main",
+    "commit": "46e236a25864110c922098be62d1bca6654dc1d3"
+  },
+  {
+    "name": "keras",
+    "status": "imported",
+    "branch": "main",
+    "commit": "abc0ec50c0e5590c0aa4d80b9eda23b32192e6dc"
+  },
+  {
+    "name": "keras-2",
+    "status": "imported",
+    "branch": "main",
+    "commit": "dd7bcd90275e85a9986cc2577e0b8333edc65ebe"
+  },
+  {
+    "name": "nlp",
+    "status": "imported",
+    "branch": "main",
+    "commit": "6576c4b8402927d384cd62c477a9fe1395e689dc"
+  },
+  {
+    "name": "nlp-spacy",
+    "status": "imported",
+    "branch": "main",
+    "commit": "b58ede78c053f927a5e2625f30f6a46132bed3e8"
+  }
+]
